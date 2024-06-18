@@ -16,7 +16,7 @@ This project demonstrates object detection using Streamlit with a YOLO model fro
    pip install -r requirements.txt
    ```
 
-3. Download the 5 [YOLOv8 models](https://docs.ultralytics.com/tasks/detect/#models) and put them in the same directory
+3. Download the 5 [YOLOv8 models](https://docs.ultralytics.com/tasks/detect/#models) and put them in the same directory.
    Ensure you have Python installed along with necessary packages like Streamlit, OpenCV, Pillow, and Ultralytics.
 
 ## Usage
